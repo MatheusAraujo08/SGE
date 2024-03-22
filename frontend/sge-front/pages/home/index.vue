@@ -22,7 +22,7 @@ const Logout = () => {
 
 <template>
     <div>
-        <h1>Minha Tela Home!!!</h1>   
+        <h1>Minha Tela Home Modificada!!!</h1>   
         <button  type='submit' class="customButton" @click="Logout">SAIR</button> 
     </div>
 </template>
